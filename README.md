@@ -1,7 +1,5 @@
 # customerLocator
 
-# customerLocator
-
 Description:
 This program will locate all customers within 100km of a set search point (the Intercom offices in Dublin in this case). After successful execution the program will print all customers located within 100km into the console window and return a ordered list of said customers.
 
